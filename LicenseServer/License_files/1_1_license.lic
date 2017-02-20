@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<License>
+  <Id>274740d7-b71b-4a67-a4fc-ede4a81edb12</Id>
+  <Type>Standard</Type>
+  <Expiration>Mon, 16 Jan 2017 10:41:30 GMT</Expiration>
+  <ProductFeatures>
+    <Feature name="FocalPoint">true</Feature>
+    <Feature name="Audit">false</Feature>
+  </ProductFeatures>
+  <Customer>
+    <Name>Triara</Name>
+    <Email>somethd@triaa.com</Email>
+  </Customer>
+  <Signature>MEQCICc0iMl2YChmS3WGKCYliZWnU3B6aGdVkpqY7AutpCRwAiAnxw9czlW64evtMeIdodiStBh5gJ95qr53v0qHoy+6xw==</Signature>
+</License>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<License>
+  <Id>03b71dc7-c5a6-4304-9c87-b1863277bb2c</Id>
+  <Type>Standard</Type>
+  <Expiration>Mon, 27 Feb 2017 23:06:28 GMT</Expiration>
+  <ProductFeatures>
+    <Feature name="Feature1">true</Feature>
+    <Feature name="Feature2">false</Feature>
+  </ProductFeatures>
+  <Customer>
+    <Name>uijk</Name>
+    <Email>iojsad</Email>
+  </Customer>
+  <Signature>MEUCIQDsMhbEAHlFDS0DMzsNUh+t9OnSvMt8mcS/6Ltl1NMsMwIgKqzsDyKGOcLBqkH30lOTjv6iLxm+TlT4nGGv47Hujhk=</Signature>
+</License>

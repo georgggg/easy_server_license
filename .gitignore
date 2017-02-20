@@ -1,0 +1,13 @@
+# bin and obj
+LicenseServer/bin/
+LicenseServer/obj/
+
+#Backup files
+*.bak
+*.orig
+
+#User Files
+*.suo
+*.user
+
+.vs/
